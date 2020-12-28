@@ -1,0 +1,15 @@
+{
+    "autolaunch": {
+        "tools": [
+            {
+            "name": "codee",
+            "path": "/home/saud/stuff/projects"
+        }
+    ]
+},
+"any": {
+    "tools": [
+            {"name": "gnome-terminal"}
+        ]
+    }
+}
